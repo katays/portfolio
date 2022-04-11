@@ -1,0 +1,125 @@
+html {
+    margin: 0 auto;
+    max-width:90%;
+    background-color: #FFFAF7;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+
+.slider{
+	margin:50px auto;
+	width:50%;
+}
+ 
+.img-box img{
+	width:100%;
+}
+
+.btn{
+	border:none;
+	outline:none;
+	background:#C7CEDB;
+	padding:10px 30px;
+	font-size: 20px;
+	color:#303A4A;
+	cursor: pointer;
+	margin:20px auto;
+    margin-left:160px;
+    		 
+}
+
+.btn:hover{
+	background: #111;
+}
+
+.topK {
+
+    margin-left: 230px;
+    
+    font-size: 50px;
+}
+
+.links {
+    
+    max-width:30%;
+    float:left;
+    padding-right:50px;
+
+}
+
+.intropt {
+  max-width:70%;
+  padding: 200px;
+}
+
+li {
+    list-style-type: none;
+    line-height: 30px; 
+   
+
+}
+
+a {
+    color: #22223b;
+}
+
+.dataheading {
+    padding:50px;
+    font-size:24pt;
+}
+
+.dbskills {
+    margin-left:50px;
+    font-size:14pt;
+   
+}
+
+.dblist {
+     list-style: square;
+}
+
+.log {
+    margin-left:75px;
+}
+
+.caption {
+    margin-left: 150px;
+    margin-right:150px;
+    
+}
+
+.mainintro {
+    width: 1005;
+    float: right;
+}
+
+.headk {
+    max-width:60%;
+    float:left;
+    margin-left:50px;
+}
+
+.lk {
+    max-width: 40% ;
+    float:right;
+    margin-right: 350px;
+}
+
+.pcc {
+    margin-top:100px;
+    float:left;
+    padding-right:100px;
+}
+
+.auto {
+    max-width:70%;
+    margin-left:200px;
+    line-height:25px;
+}
+
+a {
+  
+    color: #69708C;
+    text-decoration:underline;
+
+}
